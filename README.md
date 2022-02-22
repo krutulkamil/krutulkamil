@@ -1,37 +1,40 @@
 ### Hi there 👋
 
-My name is Kamil Krutul. I'm Civil Engineering student who decided to become front-end developer. I love Neapolitan pizza, computer games, cycling and rock music. I'm looking 
-for an internship (remote or in Katowice and surroundings. Currently taking part in JavaScript (React + Node.js) course in CodersLab. 
+Dedicated and efficient full stack JavaScript developer with strong technology background in client-side and server-side applications. Seeking to further improve my skills.
+
 
 ### Projects :bricks:
 
 | Repository  | Status        |     Description   |
 | ----------- | ----------- | -----------       |
-| [BestShop](https://github.com/krutulkamil/BestShop)      | In progress       |   Simple landing page made on course workshop. HTML5 & SCSS included. Missing pricing calculator made in js. Fully RWD.                |
-| [GamesPortal](https://github.com/krutulkamil/GamesPortal)   | Finished        |  Landing page for imaginary company which creates games. HTML5 / Bootstrap / SCSS / JavaScript / slick.js / AOD.                 |
-| [BreathtakingEvents](https://github.com/krutulkamil/BreathtakingEvents)   | In progress        |  Quick landing page for company creating events. Only main view, fully responsive, with JavaScript toggle-slide-in navigation.                 |
-| [JasmineCalculator](https://github.com/krutulkamil/JasmineCalculator)   | Finished        | Simple calculator made in JavaScript with unit tests made in Jasmine.        |
-| [NoteApp](https://github.com/krutulkamil/NoteApp)   | Finished        | Are you still forgetting something? NoteApp can create notes and delete them. Made in JavaScript.        |
+| [BestShop](https://github.com/krutulkamil/BestShop)      | Finished       |   BestShop landing page written in HTML & CSS on frontend course, then improved by ability to login/register (custom auth controllers), buy plans and access them. Protected routes, client & server side form validation by React Hook Forms and Express + Google RECAPTCHA.  |
+| [BreathtakingEvents](https://github.com/krutulkamil/bt-events)   | Finished        |  Looking for breath-taking events? Just a fullstack CRUD app to maintain awesome events nerby, SSR, with image compression (cloudinary) and google maps implementation on publish.                 |
+| [ShareFile](https://github.com/krutulkamil/sharefile)   | Finished        |  Need to share a file with your friend? Drag & Drop them and send an URL or email with link to download it. Due to Cloudinary limitations - only images, pdf and mp3 files supported.                 |
+| [Trolley](https://github.com/krutulkamil/trolley)   | Finished        | Simple shopping cart app with both client (Redux, Redux Thunk & localStorage) & server-side state managment (React Query).        |
+| [Zaplanuj-Jedzonko](https://github.com/krutulkamil/zaplanuj-jedzonko)   | In progress...        | MERN stack app to manage recipes, weekly food plans, with ability to comment and live-contact author by websockets.         |
 
 ### Technologies :rocket:
 
-- HTML5 (advanced)
-- CSS3 (advanced)
-- Sass (advanced)
-- Bootstrap (intermediate)
-- JavaScript (basic)
-- Unit testing with Jasmine (basic)
-- BEM methodology
-- Git project management
+- HTML, CSS/SCSS
+- JavaScript / TypeScript
+- React, Next.js
+- Node, Express, MongoDB, REST API
+- Redux / Redux Toolkit, Redux Thunk, Redux Saga 
+- React Query / SWR
+- Bootstrap, Tailwind, Material UI
+- Gulp, Webpack
+- Strapi Headless CMS
 
 ### Currently learning :building_construction:
 
-- JavaScript (intermediate and advanced issues)
-- TypeScript
+- WebSockets / socket.io
+- Meta-programming (decorators)
+- GraphQL / Apollo GraphQL
+- Advanced server-side state management with React Query / SWR
 
 ### More... :thread:
 
-For more informations, please check out my [cirriculum vitae](https://github.com/krutulkamil/krutulkamil/blob/main/Kamil%20Krutul.pdf).
+For more informations, please check out my [cirriculum vitae](https://github.com/krutulkamil/krutulkamil/blob/main/Kamil_Krutul_CV.pdf).
 <!--
 **krutulkamil/krutulkamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
