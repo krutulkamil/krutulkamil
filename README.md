@@ -35,7 +35,7 @@ Dedicated and efficient full stack JavaScript developer with strong technology b
 
 ### More... :thread:
 
-For more informations, please check out my [cirriculum vitae](https://github.com/krutulkamil/krutulkamil/blob/main/Kamil_Krutul_CV.pdf).
+For more informations, please check out my [cirriculum vitae](https://github.com/krutulkamil/krutulkamil/blob/main/Kamil%20Krutul%20CV.pdf).
 <!--
 **krutulkamil/krutulkamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
