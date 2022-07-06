@@ -11,26 +11,27 @@ Dedicated and efficient full stack JavaScript developer with strong technology b
 | [BreathtakingEvents](https://github.com/krutulkamil/bt-events)   | Finished        |  Looking for breath-taking events? Just a fullstack CRUD app to maintain awesome events nerby, SSR, with image compression (cloudinary) and google maps implementation on publish.                 |
 | [ShareFile](https://github.com/krutulkamil/sharefile)   | Finished        |  Need to share a file with your friend? Drag & Drop them and send an URL or email with link to download it. Due to Cloudinary limitations - only images, pdf and mp3 files supported.                 |
 | [Trolley](https://github.com/krutulkamil/trolley)   | Finished        | Simple shopping cart app with both client (Redux, Redux Thunk & localStorage) & server-side state managment (React Query).        |
-| [Zaplanuj-Jedzonko](https://github.com/krutulkamil/zaplanuj-jedzonko)   | In progress...        | MERN stack app to manage recipes, weekly food plans, with ability to comment and live-contact author by websockets.         |
 
 ### Technologies :rocket:
 
 - HTML, CSS/SCSS
 - JavaScript / TypeScript
-- React, Next.js
-- Node, Express, MongoDB, REST API
-- Redux / Redux Toolkit, Redux Thunk, Redux Saga 
+- React.js, Next.js
+- Redux / Redux Toolkit, Redux Saga 
 - React Query / SWR
+- Node.ks, Express.js, Nest.js
+- MongoDB, PostgreSQL
+- Redis
+- Websockets
 - Bootstrap, Tailwind, Material UI
 - Gulp, Webpack
-- Strapi Headless CMS
+- Strapi CMS
 
 ### Currently learning :building_construction:
 
-- WebSockets / socket.io
-- Meta-programming (decorators)
-- GraphQL / Apollo GraphQL
-- Advanced server-side state management with React Query / SWR
+- Advanced Nest.js
+- GraphQL
+- Advanced server-side state management
 
 ### More... :thread:
 
